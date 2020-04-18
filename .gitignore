@@ -3,6 +3,6 @@
 target/
 */target/
 .iml
-*/*.iml
+*.iml
 out/
 */out/
